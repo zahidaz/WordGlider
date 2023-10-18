@@ -1,0 +1,2402 @@
+[
+    {
+        "word": "a",
+        "translation": "to",
+        "examples": [
+            "Dai il libro a Maria.",
+            "Vado a scuola."
+        ],
+        "translation_of_examples": [
+            "Give the book to Maria.",
+            "I'm going to school."
+        ]
+    },
+    {
+        "word": "abbandonare",
+        "translation": "to abandon",
+        "examples": [
+            "Ha deciso di abbandonare il progetto.",
+            "Non voglio abbandonarti."
+        ],
+        "translation_of_examples": [
+            "He decided to abandon the project.",
+            "I don't want to abandon you."
+        ]
+    },
+    {
+        "word": "abbastanza",
+        "translation": "enough",
+        "examples": [
+            "Ho abbastanza soldi.",
+            "Il cibo è abbastanza buono."
+        ],
+        "translation_of_examples": [
+            "I have enough money.",
+            "The food is good enough."
+        ]
+    },
+    {
+        "word": "abitare",
+        "translation": "to live",
+        "examples": [
+            "Abito in una casa grande.",
+            "Lei abita in città."
+        ],
+        "translation_of_examples": [
+            "I live in a big house.",
+            "She lives in the city."
+        ]
+    },
+    {
+        "word": "abito",
+        "translation": "dress",
+        "examples": [
+            "Quel vestito è molto elegante.",
+            "Ho bisogno di un nuovo abito."
+        ],
+        "translation_of_examples": [
+            "That dress is very elegant.",
+            "I need a new dress."
+        ]
+    },
+    {
+        "word": "accadere",
+        "translation": "to happen",
+        "examples": [
+            "Cosa è accaduto?",
+            "Gli eventi accadono rapidamente."
+        ],
+        "translation_of_examples": [
+            "What happened?",
+            "Events happen quickly."
+        ]
+    },
+    {
+        "word": "accanto",
+        "translation": "next to",
+        "examples": [
+            "Il supermercato è accanto alla stazione.",
+            "Siediti accanto a me."
+        ],
+        "translation_of_examples": [
+            "The supermarket is next to the station.",
+            "Sit next to me."
+        ]
+    },
+    {
+        "word": "accendere",
+        "translation": "to light up",
+        "examples": [
+            "Accendi la luce, per favore.",
+            "Ho bisogno di accendere il fuoco."
+        ],
+        "translation_of_examples": [
+            "Turn on the light, please.",
+            "I need to light the fire."
+        ]
+    },
+    {
+        "word": "accettare",
+        "translation": "to accept",
+        "examples": [
+            "Devi accettare la realtà.",
+            "Accetto il tuo invito."
+        ],
+        "translation_of_examples": [
+            "You have to accept reality.",
+            "I accept your invitation."
+        ]
+    },
+    {
+        "word": "accogliere",
+        "translation": "to welcome",
+        "examples": [
+            "Li hanno accolti con gioia.",
+            "Accogliamo gli ospiti a braccia aperte."
+        ],
+        "translation_of_examples": [
+            "They welcomed them with joy.",
+            "We welcome guests with open arms."
+        ]
+    },
+    {
+        "word": "accompagnare",
+        "translation": "to accompany",
+        "examples": [
+            "Ti accompagno a casa.",
+            "Mi accompagnerai alla festa?"
+        ],
+        "translation_of_examples": [
+            "I'll accompany you home.",
+            "Will you accompany me to the party?"
+        ]
+    },
+    {
+        "word": "accorgersi",
+        "translation": "to realize",
+        "examples": [
+            "Mi sono accorto del mio errore.",
+            "Devi accorgerti di ciò che sta succedendo."
+        ],
+        "translation_of_examples": [
+            "I realized my mistake.",
+            "You need to realize what's happening."
+        ]
+    },
+    {
+        "word": "acqua",
+        "translation": "water",
+        "examples": [
+            "Ho sete, voglio un bicchiere d'acqua.",
+            "L'acqua è essenziale per la vita."
+        ],
+        "translation_of_examples": [
+            "I'm thirsty, I want a glass of water.",
+            "Water is essential for life."
+        ]
+    },
+    {
+        "word": "addirittura",
+        "translation": "even",
+        "examples": [
+            "È addirittura più bello di quanto immaginavo.",
+            "Hai addirittura finito tutto il lavoro."
+        ],
+        "translation_of_examples": [
+            "It's even more beautiful than I imagined.",
+            "You've even finished all the work."
+        ]
+    },
+    {
+        "word": "addosso",
+        "translation": "on",
+        "examples": [
+            "Ho una giacca pesante addosso.",
+            "Porto il mio zaino addosso."
+        ],
+        "translation_of_examples": [
+            "I have a heavy jacket on.",
+            "I'm wearing my backpack on."
+        ]
+    },
+    {
+        "word": "adesso",
+        "translation": "now",
+        "examples": [
+            "Vieni qui adesso.",
+            "Dobbiamo decidere adesso."
+        ],
+        "translation_of_examples": [
+            "Come here now.",
+            "We have to decide now."
+        ]
+    },
+    {
+        "word": "affare",
+        "translation": "deal",
+        "examples": [
+            "È un affare vantaggioso.",
+            "Facciamo un affare."
+        ],
+        "translation_of_examples": [
+            "It's a advantageous deal.",
+            "Let's make a deal."
+        ]
+    },
+    {
+        "word": "affatto",
+        "translation": "at all",
+        "examples": [
+            "Non mi piace affatto.",
+            "Non è affatto vero."
+        ],
+        "translation_of_examples": [
+            "I don't like it at all.",
+            "It's not true at all."
+        ]
+    },
+    {
+        "word": "affermare",
+        "translation": "to affirm",
+        "examples": [
+            "Devi affermare le tue opinioni.",
+            "Lui afferma di avere ragione."
+        ],
+        "translation_of_examples": [
+            "You need to affirm your opinions.",
+            "He affirms he's right."
+        ]
+    },
+    {
+        "word": "affrontare",
+        "translation": "to face",
+        "examples": [
+            "Dobbiamo affrontare le sfide.",
+            "Non ho paura di affrontare la verità."
+        ],
+        "translation_of_examples": [
+            "We have to face challenges.",
+            "I'm not afraid to face the truth."
+        ]
+    },
+    {
+        "word": "aggiungere",
+        "translation": "to add",
+        "examples": [
+            "Puoi aggiungere un po' di sale?",
+            "Aggiungo il tuo nome alla lista."
+        ],
+        "translation_of_examples": [
+            "Can you add some salt?",
+            "I'm adding your name to the list."
+        ]
+    },
+    {
+        "word": "agreement",
+        "translation": "accordo",
+        "examples": [
+            "Abbiamo raggiunto un accordo.",
+            "L'accordo è stato firmato."
+        ],
+        "translation_of_examples": [
+            "We reached an agreement.",
+            "The agreement has been signed."
+        ]
+    },
+    {
+        "word": "ah",
+        "translation": "ah",
+        "examples": [
+            "Ah, non ho capito.",
+            "Ah, che bella giornata!"
+        ],
+        "translation_of_examples": [
+            "Ah, I didn't understand.",
+            "Ah, what a beautiful day!"
+        ]
+    },
+    {
+        "word": "aiutare",
+        "translation": "to help",
+        "examples": [
+            "Posso aiutarti?",
+            "Dobbiamo aiutare chi è in difficoltà."
+        ],
+        "translation_of_examples": [
+            "Can I help you?",
+            "We need to help those in need."
+        ]
+    },
+    {
+        "word": "aiuto",
+        "translation": "help",
+        "examples": [
+            "Ho bisogno del tuo aiuto.",
+            "Chiama il numero di aiuto."
+        ],
+        "translation_of_examples": [
+            "I need your help.",
+            "Call the help number."
+        ]
+    },
+    {
+        "word": "albergo",
+        "translation": "hotel",
+        "examples": [
+            "Abbiamo prenotato una camera d'albergo.",
+            "L'albergo è vicino alla spiaggia."
+        ],
+        "translation_of_examples": [
+            "We booked a hotel room.",
+            "The hotel is close to the beach."
+        ]
+    },
+    {
+        "word": "albero",
+        "translation": "tree",
+        "examples": [
+            "L'albero è alto.",
+            "Gli alberi sono verdi in primavera."
+        ],
+        "translation_of_examples": [
+            "The tree is tall.",
+            "Trees are green in spring."
+        ]
+    },
+    {
+        "word": "allontanare",
+        "translation": "to move away",
+        "examples": [
+            "Dovremmo allontanarci da qui.",
+            "Non voglio allontanarti da me."
+        ],
+        "translation_of_examples": [
+            "We should move away from here.",
+            "I don't want to move you away from me."
+        ]
+    },
+    {
+        "word": "allora",
+        "translation": "then",
+        "examples": [
+            "Andremo al cinema e poi a cena, allora.",
+            "Allora, cosa faremo domani?"
+        ],
+        "translation_of_examples": [
+            "We'll go to the movies and then to dinner, then.",
+            "So, what will we do tomorrow?"
+        ]
+    },
+    {
+        "word": "alto",
+        "translation": "high",
+        "examples": [
+            "La montagna è molto alta.",
+            "Il prezzo è troppo alto."
+        ],
+        "translation_of_examples": [
+            "The mountain is very high.",
+            "The price is too high."
+        ]
+    },
+    {
+        "word": "altro",
+        "translation": "other",
+        "examples": [
+            "Ho bisogno di un altro libro.",
+            "C'è un modo diverso di farlo."
+        ],
+        "translation_of_examples": [
+            "I need another book.",
+            "There's another way to do it."
+        ]
+    },
+    {
+        "word": "alzare",
+        "translation": "to raise",
+        "examples": [
+            "Alza la mano se vuoi parlare.",
+            "Devi alzare il volume della TV."
+        ],
+        "translation_of_examples": [
+            "Raise your hand if you want to speak.",
+            "You need to raise the TV volume."
+        ]
+    },
+    {
+        "word": "amare",
+        "translation": "to love",
+        "examples": [
+            "Ti amo con tutto il cuore.",
+            "Amo i miei genitori."
+        ],
+        "translation_of_examples": [
+            "I love you with all my heart.",
+            "I love my parents."
+        ]
+    },
+    {
+        "word": "ambiente",
+        "translation": "environment",
+        "examples": [
+            "Dobbiamo proteggere l'ambiente.",
+            "L'ambiente naturale è importante."
+        ],
+        "translation_of_examples": [
+            "We need to protect the environment.",
+            "The natural environment is important."
+        ]
+    },
+    {
+        "word": "americano",
+        "translation": "American",
+        "examples": [
+            "Sono un cittadino americano.",
+            "Mi piace la cucina americana."
+        ],
+        "translation_of_examples": [
+            "I am an American citizen.",
+            "I like American cuisine."
+        ]
+    },
+    {
+        "word": "amico",
+        "translation": "friend",
+        "examples": [
+            "Lui è il mio miglior amico.",
+            "Gli amici sono importanti."
+        ],
+        "translation_of_examples": [
+            "He is my best friend.",
+            "Friends are important."
+        ]
+    },
+    {
+        "word": "ammazzare",
+        "translation": "to kill",
+        "examples": [
+            "Non dovresti ammazzare gli animali.",
+            "Ha cercato di ammazzarmi."
+        ],
+        "translation_of_examples": [
+            "You shouldn't kill animals.",
+            "He tried to kill me."
+        ]
+    },
+    {
+        "word": "ammettere",
+        "translation": "to admit",
+        "examples": [
+            "Devi ammettere il tuo errore.",
+            "Non riesce ad ammettere di aver sbagliato."
+        ],
+        "translation_of_examples": [
+            "You have to admit your mistake.",
+            "He can't admit he was wrong."
+        ]
+    },
+    {
+        "word": "amore",
+        "translation": "love",
+        "examples": [
+            "L'amore è un sentimento meraviglioso.",
+            "Ho un grande amore per la musica."
+        ],
+        "translation_of_examples": [
+            "Love is a wonderful feeling.",
+            "I have a deep love for music."
+        ]
+    },
+    {
+        "word": "ampio",
+        "translation": "wide",
+        "examples": [
+            "La strada è molto ampia.",
+            "Abbiamo bisogno di uno spazio ampio."
+        ],
+        "translation_of_examples": [
+            "The road is very wide.",
+            "We need a wide space."
+        ]
+    },
+    {
+        "word": "anche",
+        "translation": "also",
+        "examples": [
+            "Io voglio anche una pizza.",
+            "Anche lui vuole venire."
+        ],
+        "translation_of_examples": [
+            "I want a pizza also.",
+            "He also wants to come."
+        ]
+    },
+    {
+        "word": "ancora",
+        "translation": "still",
+        "examples": [
+            "Sto ancora lavorando.",
+            "Non ho ancora finito."
+        ],
+        "translation_of_examples": [
+            "I'm still working.",
+            "I haven't finished yet."
+        ]
+    },
+    {
+        "word": "andare",
+        "translation": "to go",
+        "examples": [
+            "Dove vuoi andare?",
+            "Andiamo al cinema."
+        ],
+        "translation_of_examples": [
+            "Where do you want to go?",
+            "Let's go to the movies."
+        ]
+    },
+    {
+        "word": "angolo",
+        "translation": "corner",
+        "examples": [
+            "La casa ha un bell'angolo relax.",
+            "L'angolo del viale è coperto di fiori."
+        ],
+        "translation_of_examples": [
+            "The house has a nice relaxation corner.",
+            "The corner of the avenue is covered in flowers."
+        ]
+    },
+    {
+        "word": "anima",
+        "translation": "soul",
+        "examples": [
+            "L'anima è eterna.",
+            "Questa canzone tocca l'anima."
+        ],
+        "translation_of_examples": [
+            "The soul is eternal.",
+            "This song touches the soul."
+        ]
+    },
+    {
+        "word": "animale",
+        "translation": "animal",
+        "examples": [
+            "Gli animali sono importanti per l'ecosistema.",
+            "Quell'animale è molto carino."
+        ],
+        "translation_of_examples": [
+            "Animals are important for the ecosystem.",
+            "That animal is very cute."
+        ]
+    },
+    {
+        "word": "animo",
+        "translation": "spirit",
+        "examples": [
+            "Ha un animo gentile.",
+            "L'artista ha uno spirito creativo."
+        ],
+        "translation_of_examples": [
+            "He has a kind spirit.",
+            "The artist has a creative spirit."
+        ]
+    },
+    {
+        "word": "anno",
+        "translation": "year",
+        "examples": [
+            "L'anno scorso è stato difficile.",
+            "Quanti anni hai?"
+        ],
+        "translation_of_examples": [
+            "Last year was tough.",
+            "How old are you?"
+        ]
+    },
+    {
+        "word": "annunciare",
+        "translation": "to announce",
+        "examples": [
+            "Hanno annunciato una nuova iniziativa.",
+            "Dovresti annunciare la notizia."
+        ],
+        "translation_of_examples": [
+            "They announced a new initiative.",
+            "You should announce the news."
+        ]
+    },
+    {
+        "word": "antico",
+        "translation": "ancient",
+        "examples": [
+            "Questo manoscritto è antico.",
+            "La città ha un centro storico antico."
+        ],
+        "translation_of_examples": [
+            "This manuscript is ancient.",
+            "The city has an ancient historic center."
+        ]
+    },
+    {
+        "word": "anzi",
+        "translation": "on the contrary",
+        "examples": [
+            "Non è difficile, anzi, è facile.",
+            "Anzi, mi piacerebbe venire con te."
+        ],
+        "translation_of_examples": [
+            "It's not difficult; on the contrary, it's easy.",
+            "On the contrary, I'd like to come with you."
+        ]
+    },
+    {
+        "word": "apparire",
+        "translation": "to appear",
+        "examples": [
+            "Le stelle appaiono di notte.",
+            "L'isola sembra apparire all'orizzonte."
+        ],
+        "translation_of_examples": [
+            "Stars appear at night.",
+            "The island seems to appear on the horizon."
+        ]
+    },
+    {
+        "word": "appartenere",
+        "translation": "to belong",
+        "examples": [
+            "Questo libro appartiene a Maria.",
+            "Le idee appartengono a tutti."
+        ],
+        "translation_of_examples": [
+            "This book belongs to Maria.",
+            "Ideas belong to everyone."
+        ]
+    },
+    {
+        "word": "appena",
+        "translation": "just",
+        "examples": [
+            "Ho appena finito di mangiare.",
+            "Sono appena tornato a casa."
+        ],
+        "translation_of_examples": [
+            "I just finished eating.",
+            "I just got back home."
+        ]
+    },
+    {
+        "word": "appoggiare",
+        "translation": "to support",
+        "examples": [
+            "Dobbiamo appoggiare questa causa.",
+            "Mi appoggio al muro."
+        ],
+        "translation_of_examples": [
+            "We need to support this cause.",
+            "I'm leaning against the wall."
+        ]
+    },
+    {
+        "word": "appunto",
+        "translation": "exactly",
+        "examples": [
+            "Hai ragione, è appunto così.",
+            "Ho dimenticato l'appunto importante."
+        ],
+        "translation_of_examples": [
+            "You're right, it's exactly like that.",
+            "I forgot the important note."
+        ]
+    },
+    {
+        "word": "aprire",
+        "translation": "to open",
+        "examples": [
+            "Puoi aprire la finestra?",
+            "Ho bisogno di aprire questa scatola."
+        ],
+        "translation_of_examples": [
+            "Can you open the window?",
+            "I need to open this box."
+        ]
+    },
+    {
+        "word": "argomento",
+        "translation": "topic",
+        "examples": [
+            "L'argomento della discussione è importante.",
+            "Di cosa vuoi parlare? Scegli tu l'argomento."
+        ],
+        "translation_of_examples": [
+            "The topic of the discussion is important.",
+            "What do you want to talk about? You choose the topic."
+        ]
+    },
+    {
+        "word": "aria",
+        "translation": "air",
+        "examples": [
+            "L'aria fresca è piacevole.",
+            "Ho bisogno di aria."
+        ],
+        "translation_of_examples": [
+            "Fresh air is pleasant.",
+            "I need some air."
+        ]
+    },
+    {
+        "word": "arma",
+        "translation": "weapon",
+        "examples": [
+            "Non dovremmo usare le armi.",
+            "L'arma è nascosta nell'armadio."
+        ],
+        "translation_of_examples": [
+            "We shouldn't use weapons.",
+            "The weapon is hidden in the closet."
+        ]
+    },
+    {
+        "word": "armare",
+        "translation": "to arm",
+        "examples": [
+            "Il governo sta armando le forze militari.",
+            "Hai mai armato una trappola?"
+        ],
+        "translation_of_examples": [
+            "The government is arming the military forces.",
+            "Have you ever armed a trap?"
+        ]
+    },
+    {
+        "word": "arrestare",
+        "translation": "to arrest",
+        "examples": [
+            "La polizia ha arrestato il sospettato.",
+            "Devi arrestare questa persona."
+        ],
+        "translation_of_examples": [
+            "The police arrested the suspect.",
+            "You have to arrest this person."
+        ]
+    },
+    {
+        "word": "arrivare",
+        "translation": "to arrive",
+        "examples": [
+            "Sto per arrivare.",
+            "Quando arrivi?"
+        ],
+        "translation_of_examples": [
+            "I'm about to arrive.",
+            "When are you arriving?"
+        ]
+    },
+    {
+        "word": "arte",
+        "translation": "art",
+        "examples": [
+            "L'arte è espressione creativa.",
+            "Mi piace l'arte contemporanea."
+        ],
+        "translation_of_examples": [
+            "Art is creative expression.",
+            "I like contemporary art."
+        ]
+    },
+    {
+        "word": "articolo",
+        "translation": "article",
+        "examples": [
+            "Ho letto un interessante articolo.",
+            "L'articolo parla di tecnologia."
+        ],
+        "translation_of_examples": [
+            "I read an interesting article.",
+            "The article is about technology."
+        ]
+    },
+    {
+        "word": "ascoltare",
+        "translation": "to listen",
+        "examples": [
+            "Devi imparare ad ascoltare.",
+            "Mi piace ascoltare la musica."
+        ],
+        "translation_of_examples": [
+            "You have to learn to listen.",
+            "I like listening to music."
+        ]
+    },
+    {
+        "word": "aspettare",
+        "translation": "to wait",
+        "examples": [
+            "Non voglio più aspettare.",
+            "Sto aspettando il mio amico."
+        ],
+        "translation_of_examples": [
+            "I don't want to wait anymore.",
+            "I'm waiting for my friend."
+        ]
+    },
+    {
+        "word": "aspetto",
+        "translation": "aspect",
+        "examples": [
+            "L'aspetto fisico non è tutto.",
+            "Questo è un importante aspetto del problema."
+        ],
+        "translation_of_examples": [
+            "Physical appearance isn't everything.",
+            "This is an important aspect of the problem."
+        ]
+    },
+    {
+        "word": "assai",
+        "translation": "very",
+        "examples": [
+            "Questo vino è assai buono.",
+            "È un compito assai difficile."
+        ],
+        "translation_of_examples": [
+            "This wine is very good.",
+            "It's a very difficult task."
+        ]
+    },
+    {
+        "word": "assicurare",
+        "translation": "to ensure",
+        "examples": [
+            "Dobbiamo assicurare il successo del progetto.",
+            "Voglio assicurare la tua felicità."
+        ],
+        "translation_of_examples": [
+            "We need to ensure the success of the project.",
+            "I want to ensure your happiness."
+        ]
+    },
+    {
+        "word": "assistere",
+        "translation": "to attend",
+        "examples": [
+            "Ho assistito alla conferenza.",
+            "Voglio assistere alla partita di calcio."
+        ],
+        "translation_of_examples": [
+            "I attended the conference.",
+            "I want to attend the soccer game."
+        ]
+    },
+    {
+        "word": "assoluto",
+        "translation": "absolute",
+        "examples": [
+            "La verità è assoluta.",
+            "Questo è un successo assoluto."
+        ],
+        "translation_of_examples": [
+            "Truth is absolute.",
+            "This is an absolute success."
+        ]
+    },
+    {
+        "word": "assumere",
+        "translation": "to hire",
+        "examples": [
+            "L'azienda vuole assumere nuovi dipendenti.",
+            "Hanno appena assunto un nuovo manager."
+        ],
+        "translation_of_examples": [
+            "The company wants to hire new employees.",
+            "They just hired a new manager."
+        ]
+    },
+    {
+        "word": "attaccare",
+        "translation": "to attack",
+        "examples": [
+            "Non dovremmo attaccare gli altri.",
+            "Hanno cercato di attaccare il nemico."
+        ],
+        "translation_of_examples": [
+            "We shouldn't attack others.",
+            "They tried to attack the enemy."
+        ]
+    },
+    {
+        "word": "atteggiamento",
+        "translation": "attitude",
+        "examples": [
+            "Il tuo atteggiamento fa la differenza.",
+            "Ha un atteggiamento positivo."
+        ],
+        "translation_of_examples": [
+            "Your attitude makes a difference.",
+            "He has a positive attitude."
+        ]
+    },
+    {
+        "word": "attento",
+        "translation": "careful",
+        "examples": [
+            "Sii attento quando attraversi la strada.",
+            "È un bambino molto attento."
+        ],
+        "translation_of_examples": [
+            "Be careful when crossing the street.",
+            "He's a very careful child."
+        ]
+    },
+    {
+        "word": "attenzione",
+        "translation": "attention",
+        "examples": [
+            "Presta attenzione alle istruzioni.",
+            "Hai la mia piena attenzione."
+        ],
+        "translation_of_examples": [
+            "Pay attention to the instructions.",
+            "You have my full attention."
+        ]
+    },
+    {
+        "word": "attesa",
+        "translation": "waiting",
+        "examples": [
+            "Siamo in attesa del tuo arrivo.",
+            "C'è molta attesa per l'evento."
+        ],
+        "translation_of_examples": [
+            "We are waiting for your arrival.",
+            "There's a lot of waiting for the event."
+        ]
+    },
+    {
+        "word": "attimo",
+        "translation": "moment",
+        "examples": [
+            "Aspetta un attimo, per favore.",
+            "Questo è un attimo speciale."
+        ],
+        "translation_of_examples": [
+            "Wait a moment, please.",
+            "This is a special moment."
+        ]
+    },
+    {
+        "word": "attività",
+        "translation": "activity",
+        "examples": [
+            "Quali attività ti piacciono?",
+            "Svolgiamo molte attività insieme."
+        ],
+        "translation_of_examples": [
+            "Which activities do you like?",
+            "We do many activities together."
+        ]
+    },
+    {
+        "word": "atto",
+        "translation": "act",
+        "examples": [
+            "Il suo atto è stato coraggioso.",
+            "Hai commesso un atto sbagliato."
+        ],
+        "translation_of_examples": [
+            "His act was brave.",
+            "You've committed a wrong act."
+        ]
+    },
+    {
+        "word": "attore",
+        "translation": "actor",
+        "examples": [
+            "Quell'attore è molto talentuoso.",
+            "Gli attori recitano sul palco."
+        ],
+        "translation_of_examples": [
+            "That actor is very talented.",
+            "The actors perform on stage."
+        ]
+    },
+    {
+        "word": "attorno",
+        "translation": "around",
+        "examples": [
+            "C'è molta bellezza attorno a noi.",
+            "Guardati attorno e osserva."
+        ],
+        "translation_of_examples": [
+            "There's a lot of beauty around us.",
+            "Look around and observe."
+        ]
+    },
+    {
+        "word": "attraversare",
+        "translation": "to cross",
+        "examples": [
+            "Dobbiamo attraversare il fiume.",
+            "Ho attraversato l'oceano in nave."
+        ],
+        "translation_of_examples": [
+            "We need to cross the river.",
+            "I crossed the ocean by ship."
+        ]
+    },
+    {
+        "word": "attuale",
+        "translation": "current",
+        "examples": [
+            "La situazione attuale è complessa.",
+            "Il prezzo attuale è basso."
+        ],
+        "translation_of_examples": [
+            "The current situation is complex.",
+            "The current price is low."
+        ]
+    },
+    {
+        "word": "aumentare",
+        "translation": "to increase",
+        "examples": [
+            "Vogliono aumentare i salari.",
+            "L'uso di plastica sta aumentando."
+        ],
+        "translation_of_examples": [
+            "They want to increase salaries.",
+            "The use of plastic is increasing."
+        ]
+    },
+    {
+        "word": "automobile",
+        "translation": "car",
+        "examples": [
+            "Ho bisogno di una nuova automobile.",
+            "L'automobile è parcheggiata là."
+        ],
+        "translation_of_examples": [
+            "I need a new car.",
+            "The car is parked over there."
+        ]
+    },
+    {
+        "word": "autore",
+        "translation": "author",
+        "examples": [
+            "Chi è l'autore di questo libro?",
+            "L'autore ha scritto molti romanzi famosi."
+        ],
+        "translation_of_examples": [
+            "Who is the author of this book?",
+            "The author has written many famous novels."
+        ]
+    },
+    {
+        "word": "autorità",
+        "translation": "authority",
+        "examples": [
+            "Le autorità stanno indagando sul caso.",
+            "Le autorità locali gestiscono la città."
+        ],
+        "translation_of_examples": [
+            "The authorities are investigating the case.",
+            "Local authorities manage the city."
+        ]
+    },
+    {
+        "word": "avanti",
+        "translation": "forward",
+        "examples": [
+            "Vai avanti senza di me.",
+            "Continua ad andare avanti."
+        ],
+        "translation_of_examples": [
+            "Go forward without me.",
+            "Keep moving forward."
+        ]
+    },
+    {
+        "word": "avanzare",
+        "translation": "to advance",
+        "examples": [
+            "Dobbiamo avanzare con il progetto.",
+            "L'arte avanza con il tempo."
+        ],
+        "translation_of_examples": [
+            "We need to advance with the project.",
+            "Art advances with time."
+        ]
+    },
+    {
+        "word": "avere",
+        "translation": "to have",
+        "examples": [
+            "Io ho una macchina.",
+            "Tu hai fame?"
+        ],
+        "translation_of_examples": [
+            "I have a car.",
+            "Are you hungry?"
+        ]
+    },
+    {
+        "word": "avvenire",
+        "translation": "to happen",
+        "examples": [
+            "L'evento avverrà domani.",
+            "Non so cosa avverrà."
+        ],
+        "translation_of_examples": [
+            "The event will happen tomorrow.",
+            "I don't know what will happen."
+        ]
+    },
+    {
+        "word": "avvertire",
+        "translation": "to warn",
+        "examples": [
+            "Devi avvertire gli altri.",
+            "L'hanno avvertito del pericolo."
+        ],
+        "translation_of_examples": [
+            "You have to warn the others.",
+            "They warned him about the danger."
+        ]
+    },
+    {
+        "word": "avvicinare",
+        "translation": "to approach",
+        "examples": [
+            "Dobbiamo avvicinarci con cautela.",
+            "L'orario di partenza si avvicina."
+        ],
+        "translation_of_examples": [
+            "We need to approach with caution.",
+            "The departure time is approaching."
+        ]
+    },
+    {
+        "word": "avvocato",
+        "translation": "lawyer",
+        "examples": [
+            "L'avvocato difende i diritti del cliente.",
+            "Ho bisogno di un avvocato penalista."
+        ],
+        "translation_of_examples": [
+            "The lawyer defends the client's rights.",
+            "I need a criminal lawyer."
+        ]
+    },
+    {
+        "word": "azione",
+        "translation": "action",
+        "examples": [
+            "Le azioni parlano più delle parole.",
+            "Dobbiamo intraprendere azioni concrete."
+        ],
+        "translation_of_examples": [
+            "Actions speak louder than words.",
+            "We need to take concrete actions."
+        ]
+    },
+    {
+        "word": "azzurro",
+        "translation": "blue",
+        "examples": [
+            "Il cielo è azzurro oggi.",
+            "Mi piace il colore azzurro."
+        ],
+        "translation_of_examples": [
+            "The sky is blue today.",
+            "I like the color blue."
+        ]
+    },
+    {
+        "word": "baciare",
+        "translation": "to kiss",
+        "examples": [
+            "Mi piacerebbe baciarti.",
+            "Hai mai baciato qualcuno sotto la pioggia?"
+        ],
+        "translation_of_examples": [
+            "I'd like to kiss you.",
+            "Have you ever kissed someone in the rain?"
+        ]
+    },
+    {
+        "word": "badare",
+        "translation": "to take care of",
+        "examples": [
+            "Devi badare ai bambini.",
+            "Ho badato alla mia salute."
+        ],
+        "translation_of_examples": [
+            "You have to take care of the children.",
+            "I took care of my health."
+        ]
+    },
+    {
+        "word": "bagno",
+        "translation": "bathroom",
+        "examples": [
+            "Il bagno è occupato.",
+            "Hai visto il bagno pubblico?"
+        ],
+        "translation_of_examples": [
+            "The bathroom is occupied.",
+            "Have you seen the public restroom?"
+        ]
+    },
+    {
+        "word": "bambina",
+        "translation": "girl",
+        "examples": [
+            "La bambina sta giocando.",
+            "La bambina è molto carina."
+        ],
+        "translation_of_examples": [
+            "The girl is playing.",
+            "The girl is very cute."
+        ]
+    },
+    {
+        "word": "bambino",
+        "translation": "boy",
+        "examples": [
+            "Il bambino ama i giochi.",
+            "Quel bambino è molto energico."
+        ],
+        "translation_of_examples": [
+            "The boy loves games.",
+            "That boy is very energetic."
+        ]
+    },
+    {
+        "word": "base",
+        "translation": "base",
+        "examples": [
+            "Questa è la base delle operazioni.",
+            "Abbiamo una buona base di partenza."
+        ],
+        "translation_of_examples": [
+            "This is the base of operations.",
+            "We have a good starting base."
+        ]
+    },
+    {
+        "word": "basso",
+        "translation": "short",
+        "examples": [
+            "L'uomo è molto basso.",
+            "La torre è più bassa di quanto pensassi."
+        ],
+        "translation_of_examples": [
+            "The man is very short.",
+            "The tower is shorter than you thought."
+        ]
+    },
+    {
+        "word": "bastare",
+        "translation": "to be enough",
+        "examples": [
+            "Questo cibo basta per tutti.",
+            "Mi basti tu."
+        ],
+        "translation_of_examples": [
+            "This food is enough for everyone.",
+            "I only need you."
+        ]
+    },
+    {
+        "word": "battaglia",
+        "translation": "battle",
+        "examples": [
+            "La battaglia è stata feroce.",
+            "La battaglia è appena iniziata."
+        ],
+        "translation_of_examples": [
+            "The battle was fierce.",
+            "The battle has just begun."
+        ]
+    },
+    {
+        "word": "battere",
+        "translation": "to beat",
+        "examples": [
+            "Devi battere il nemico.",
+            "Le ali degli uccelli battono velocemente."
+        ],
+        "translation_of_examples": [
+            "You have to beat the enemy.",
+            "Birds' wings beat rapidly."
+        ]
+    },
+    {
+        "word": "bellezza",
+        "translation": "beauty",
+        "examples": [
+            "La bellezza sta negli occhi di chi guarda.",
+            "Questo paesaggio ha una grande bellezza."
+        ],
+        "translation_of_examples": [
+            "Beauty is in the eye of the beholder.",
+            "This landscape has great beauty."
+        ]
+    },
+    {
+        "word": "bello",
+        "translation": "beautiful",
+        "examples": [
+            "Il tramonto è bellissimo.",
+            "Hai una voce bellissima."
+        ],
+        "translation_of_examples": [
+            "The sunset is beautiful.",
+            "You have a beautiful voice."
+        ]
+    },
+    {
+        "word": "bene",
+        "translation": "well",
+        "examples": [
+            "Sto bene, grazie.",
+            "Le cose vanno bene."
+        ],
+        "translation_of_examples": [
+            "I'm well, thank you.",
+            "Things are going well."
+        ]
+    },
+    {
+        "word": "bene",
+        "translation": "good",
+        "examples": [
+            "È una buona persona.",
+            "Fai del bene agli altri."
+        ],
+        "translation_of_examples": [
+            "He is a good person.",
+            "You do good to others."
+        ]
+    },
+    {
+        "word": "bere",
+        "translation": "to drink",
+        "examples": [
+            "Posso bere un bicchiere d'acqua?",
+            "Mi piace bere caffè al mattino."
+        ],
+        "translation_of_examples": [
+            "Can I drink a glass of water?",
+            "I like to drink coffee in the morning."
+        ]
+    },
+    {
+        "word": "bestia",
+        "translation": "beast",
+        "examples": [
+            "La bestia è uscita dalla foresta.",
+            "Quella bestia è pericolosa."
+        ],
+        "translation_of_examples": [
+            "The beast came out of the forest.",
+            "That beast is dangerous."
+        ]
+    },
+    {
+        "word": "bianco",
+        "translation": "white",
+        "examples": [
+            "Il vestito è bianco.",
+            "La neve è bianca."
+        ],
+        "translation_of_examples": [
+            "The dress is white.",
+            "The snow is white."
+        ]
+    },
+    {
+        "word": "biondo",
+        "translation": "blond",
+        "examples": [
+            "Ha i capelli biondi.",
+            "Il bambino è biondo."
+        ],
+        "translation_of_examples": [
+            "He has blond hair.",
+            "The child is blond."
+        ]
+    },
+    {
+        "word": "bisognare",
+        "translation": "to need",
+        "examples": [
+            "Ho bisogno di aiuto.",
+            "Cosa bisogna fare?"
+        ],
+        "translation_of_examples": [
+            "I need help.",
+            "What needs to be done?"
+        ]
+    },
+    {
+        "word": "bisogno",
+        "translation": "need",
+        "examples": [
+            "C'è un grande bisogno di amore.",
+            "Soddisfa il mio bisogno di conoscenza."
+        ],
+        "translation_of_examples": [
+            "There is a great need for love.",
+            "Satisfy my need for knowledge."
+        ]
+    },
+    {
+        "word": "bocca",
+        "translation": "mouth",
+        "examples": [
+            "Hai una bella bocca.",
+            "La bocca è un organo importante."
+        ],
+        "translation_of_examples": [
+            "You have a beautiful mouth.",
+            "The mouth is an important organ."
+        ]
+    },
+    {
+        "word": "bosco",
+        "translation": "forest",
+        "examples": [
+            "Il bosco è pieno di alberi.",
+            "Mi piace passeggiare nel bosco."
+        ],
+        "translation_of_examples": [
+            "The forest is full of trees.",
+            "I like to walk in the forest."
+        ]
+    },
+    {
+        "word": "braccio",
+        "translation": "arm",
+        "examples": [
+            "Ho ferito il mio braccio.",
+            "L'atleta ha un braccio forte."
+        ],
+        "translation_of_examples": [
+            "I hurt my arm.",
+            "The athlete has a strong arm."
+        ]
+    },
+    {
+        "word": "bravo",
+        "translation": "good",
+        "examples": [
+            "Sei davvero bravo.",
+            "Bravo lavoro!"
+        ],
+        "translation_of_examples": [
+            "You are really good.",
+            "Good job!"
+        ]
+    },
+    {
+        "word": "breve",
+        "translation": "short",
+        "examples": [
+            "Il racconto è breve.",
+            "La strada è breve."
+        ],
+        "translation_of_examples": [
+            "The story is short.",
+            "The road is short."
+        ]
+    },
+    {
+        "word": "bruciare",
+        "translation": "to burn",
+        "examples": [
+            "Il fuoco sta bruciando.",
+            "Mi sono bruciato la mano."
+        ],
+        "translation_of_examples": [
+            "The fire is burning.",
+            "I burned my hand."
+        ]
+    },
+    {
+        "word": "brutto",
+        "translation": "ugly",
+        "examples": [
+            "Quel quadro è brutto.",
+            "Non dire brutte parole."
+        ],
+        "translation_of_examples": [
+            "That painting is ugly.",
+            "Don't say ugly words."
+        ]
+    },
+    {
+        "word": "buio",
+        "translation": "dark",
+        "examples": [
+            "È così buio qui.",
+            "La notte è buia."
+        ],
+        "translation_of_examples": [
+            "It's so dark here.",
+            "The night is dark."
+        ]
+    },
+    {
+        "word": "buono",
+        "translation": "good",
+        "examples": [
+            "Questo cibo è buonissimo.",
+            "Sei una persona buona."
+        ],
+        "translation_of_examples": [
+            "This food is delicious.",
+            "You are a good person."
+        ]
+    },
+    {
+        "word": "buttare",
+        "translation": "to throw",
+        "examples": [
+            "Devi buttare la spazzatura.",
+            "Non buttare via quel giocattolo."
+        ],
+        "translation_of_examples": [
+            "You have to throw away the garbage.",
+            "Don't throw that toy away."
+        ]
+    },
+    {
+        "word": "cadere",
+        "translation": "to fall",
+        "examples": [
+            "Hai visto il foglio cadere?",
+            "Mi sono fatto male cadendo."
+        ],
+        "translation_of_examples": [
+            "Did you see the leaf fall?",
+            "I got hurt falling."
+        ]
+    },
+    {
+        "word": "caffè",
+        "translation": "coffee",
+        "examples": [
+            "Mi piace il caffè nero.",
+            "Dove posso trovare un buon caffè?"
+        ],
+        "translation_of_examples": [
+            "I like black coffee.",
+            "Where can I find good coffee?"
+        ]
+    },
+    {
+        "word": "calcio",
+        "translation": "soccer",
+        "examples": [
+            "Il calcio è uno sport popolare.",
+            "Mi piace giocare a calcio."
+        ],
+        "translation_of_examples": [
+            "Soccer is a popular sport.",
+            "I like to play soccer."
+        ]
+    },
+    {
+        "word": "caldo",
+        "translation": "hot",
+        "examples": [
+            "Fa molto caldo oggi.",
+            "Il caffè è ancora caldo."
+        ],
+        "translation_of_examples": [
+            "It's very hot today.",
+            "The coffee is still hot."
+        ]
+    },
+    {
+        "word": "cambiare",
+        "translation": "to change",
+        "examples": [
+            "Dobbiamo cambiare la situazione.",
+            "È il momento di cambiare."
+        ],
+        "translation_of_examples": [
+            "We need to change the situation.",
+            "It's time to change."
+        ]
+    },
+    {
+        "word": "camera",
+        "translation": "room",
+        "examples": [
+            "La camera da letto è accogliente.",
+            "Mi piacerebbe vedere la tua camera."
+        ],
+        "translation_of_examples": [
+            "The bedroom is cozy.",
+            "I'd like to see your room."
+        ]
+    },
+    {
+        "word": "camminare",
+        "translation": "to walk",
+        "examples": [
+            "Mi piace camminare nel parco.",
+            "Camminiamo insieme."
+        ],
+        "translation_of_examples": [
+            "I like to walk in the park.",
+            "Let's walk together."
+        ]
+    },
+    {
+        "word": "campagna",
+        "translation": "countryside",
+        "examples": [
+            "La campagna è tranquilla.",
+            "Mi piace la vita in campagna."
+        ],
+        "translation_of_examples": [
+            "The countryside is peaceful.",
+            "I like the countryside life."
+        ]
+    },
+    {
+        "word": "campo",
+        "translation": "field",
+        "examples": [
+            "Il campo è pieno di fiori.",
+            "Hanno giocato nel campo."
+        ],
+        "translation_of_examples": [
+            "The field is full of flowers.",
+            "They played in the field."
+        ]
+    },
+    {
+        "word": "cane",
+        "translation": "dog",
+        "examples": [
+            "Il cane è il miglior amico dell'uomo.",
+            "Mi piace passeggiare con il mio cane."
+        ],
+        "translation_of_examples": [
+            "The dog is man's best friend.",
+            "I like to walk with my dog."
+        ]
+    },
+    {
+        "word": "cantare",
+        "translation": "to sing",
+        "examples": [
+            "Mi piace cantare sotto la doccia.",
+            "L'artista ama cantare sul palco."
+        ],
+        "translation_of_examples": [
+            "I like to sing in the shower.",
+            "The artist loves to sing on stage."
+        ]
+    },
+    {
+        "word": "capace",
+        "translation": "capable",
+        "examples": [
+            "Sei molto capace.",
+            "È una persona capace."
+        ],
+        "translation_of_examples": [
+            "You are very capable.",
+            "He is a capable person."
+        ]
+    },
+    {
+        "word": "capello",
+        "translation": "hair",
+        "examples": [
+            "Ha i capelli lunghi.",
+            "Sto facendo un taglio di capelli."
+        ],
+        "translation_of_examples": [
+            "She has long hair.",
+            "I'm getting a haircut."
+        ]
+    },
+    {
+        "word": "capire",
+        "translation": "to understand",
+        "examples": [
+            "Non riesco a capire.",
+            "Devi capire la situazione."
+        ],
+        "translation_of_examples": [
+            "I can't understand.",
+            "You need to understand the situation."
+        ]
+    },
+    {
+        "word": "capitare",
+        "translation": "to happen",
+        "examples": [
+            "Non so come sia potuto capitare.",
+            "Può capitare a chiunque."
+        ],
+        "translation_of_examples": [
+            "I don't know how it could have happened.",
+            "It can happen to anyone."
+        ]
+    },
+    {
+        "word": "capo",
+        "translation": "boss",
+        "examples": [
+            "Il capo è sempre occupato.",
+            "Ho una riunione con il capo."
+        ],
+        "translation_of_examples": [
+            "The boss is always busy.",
+            "I have a meeting with the boss."
+        ]
+    },
+    {
+        "word": "carattere",
+        "translation": "character",
+        "examples": [
+            "Ha un carattere forte.",
+            "Il libro ha un personaggio interessante."
+        ],
+        "translation_of_examples": [
+            "He has a strong character.",
+            "The book has an interesting character."
+        ]
+    },
+    {
+        "word": "caratteristico",
+        "translation": "characteristic",
+        "examples": [
+            "Questo posto ha un clima caratteristico.",
+            "Il cibo locale è molto caratteristico."
+        ],
+        "translation_of_examples": [
+            "This place has a characteristic climate.",
+            "Local food is very characteristic."
+        ]
+    },
+    {
+        "word": "carne",
+        "translation": "meat",
+        "examples": [
+            "Mi piace la carne arrosto.",
+            "La dieta vegetariana evita la carne."
+        ],
+        "translation_of_examples": [
+            "I like roasted meat.",
+            "The vegetarian diet avoids meat."
+        ]
+    },
+    {
+        "word": "caro",
+        "translation": "expensive",
+        "examples": [
+            "Questo vestito è molto caro.",
+            "I prezzi sono diventati cari."
+        ],
+        "translation_of_examples": [
+            "This dress is very expensive.",
+            "Prices have become expensive."
+        ]
+    },
+    {
+        "word": "carta",
+        "translation": "paper",
+        "examples": [
+            "Hai una penna e della carta?",
+            "Scrivi il tuo nome sulla carta."
+        ],
+        "translation_of_examples": [
+            "Do you have a pen and paper?",
+            "Write your name on the paper."
+        ]
+    },
+    {
+        "word": "casa",
+        "translation": "house",
+        "examples": [
+            "La casa è accogliente.",
+            "Ho una casa in campagna."
+        ],
+        "translation_of_examples": [
+            "The house is cozy.",
+            "I have a house in the countryside."
+        ]
+    },
+    {
+        "word": "caso",
+        "translation": "case",
+        "examples": [
+            "Questo è un caso particolare.",
+            "Nessun caso è identico."
+        ],
+        "translation_of_examples": [
+            "This is a special case.",
+            "No case is identical."
+        ]
+    },
+    {
+        "word": "cattivo",
+        "translation": "bad",
+        "examples": [
+            "Quel film è davvero cattivo.",
+            "Non fare azioni cattive."
+        ],
+        "translation_of_examples": [
+            "That movie is really bad.",
+            "Don't do bad deeds."
+        ]
+    },
+    {
+        "word": "cattolico",
+        "translation": "Catholic",
+        "examples": [
+            "È un'istituzione cattolica.",
+            "Sono cattolico praticante."
+        ],
+        "translation_of_examples": [
+            "It's a Catholic institution.",
+            "I am a practicing Catholic."
+        ]
+    },
+    {
+        "word": "causa",
+        "translation": "cause",
+        "examples": [
+            "La causa è importante.",
+            "Sostengo questa causa."
+        ],
+        "translation_of_examples": [
+            "The cause is important.",
+            "I support this cause."
+        ]
+    },
+    {
+        "word": "cavallo",
+        "translation": "horse",
+        "examples": [
+            "Il cavallo corre veloce.",
+            "Mi piace andare a cavallo."
+        ],
+        "translation_of_examples": [
+            "The horse runs fast.",
+            "I like horseback riding."
+        ]
+    },
+    {
+        "word": "celebrare",
+        "translation": "to celebrate",
+        "examples": [
+            "Celebreremo il compleanno domani.",
+            "È tempo di celebrare."
+        ],
+        "translation_of_examples": [
+            "We will celebrate the birthday tomorrow.",
+            "It's time to celebrate."
+        ]
+    },
+    {
+        "word": "centrale",
+        "translation": "central",
+        "examples": [
+            "Il punto centrale è importante.",
+            "La stazione centrale è qui vicino."
+        ],
+        "translation_of_examples": [
+            "The central point is important.",
+            "The central station is nearby."
+        ]
+    },
+    {
+        "word": "centro",
+        "translation": "center",
+        "examples": [
+            "Siamo nel centro della città.",
+            "Il centro commerciale è aperto."
+        ],
+        "translation_of_examples": [
+            "We are in the center of the city.",
+            "The shopping center is open."
+        ]
+    },
+    {
+        "word": "cercare",
+        "translation": "to search",
+        "examples": [
+            "Devi cercare la verità.",
+            "Sto cercando le chiavi."
+        ],
+        "translation_of_examples": [
+            "You have to search for the truth.",
+            "I'm looking for the keys."
+        ]
+    },
+    {
+        "word": "certamente",
+        "translation": "certainly",
+        "examples": [
+            "Certamente, posso aiutarti.",
+            "Certamente, lo farò."
+        ],
+        "translation_of_examples": [
+            "Certainly, I can help you.",
+            "Certainly, I will do it."
+        ]
+    },
+    {
+        "word": "certo",
+        "translation": "certain",
+        "examples": [
+            "Sono certo di questa risposta.",
+            "Niente è certo nella vita."
+        ],
+        "translation_of_examples": [
+            "I'm certain of this answer.",
+            "Nothing is certain in life."
+        ]
+    },
+    {
+        "word": "che",
+        "translation": "that",
+        "examples": [
+            "Ho sentito dire che verrà.",
+            "Sapevo che lo avresti capito."
+        ],
+        "translation_of_examples": [
+            "I heard that he's coming.",
+            "I knew that you would understand."
+        ]
+    },
+    {
+        "word": "chi",
+        "translation": "who",
+        "examples": [
+            "Chi è quella persona?",
+            "Non so chi sia."
+        ],
+        "translation_of_examples": [
+            "Who is that person?",
+            "I don't know who it is."
+        ]
+    },
+    {
+        "word": "chiamare",
+        "translation": "to call",
+        "examples": [
+            "Posso chiamarti più tardi?",
+            "Chi devo chiamare in caso di emergenza?"
+        ],
+        "translation_of_examples": [
+            "Can I call you later?",
+            "Who should I call in case of an emergency?"
+        ]
+    },
+    {
+        "word": "chiaro",
+        "translation": "clear",
+        "examples": [
+            "Il cielo è chiaro oggi.",
+            "Sii chiaro nella tua comunicazione."
+        ],
+        "translation_of_examples": [
+            "The sky is clear today.",
+            "Be clear in your communication."
+        ]
+    },
+    {
+        "word": "chiave",
+        "translation": "key",
+        "examples": [
+            "Hai la chiave di casa?",
+            "Questa chiave apre la porta."
+        ],
+        "translation_of_examples": [
+            "Do you have the house key?",
+            "This key opens the door."
+        ]
+    },
+    {
+        "word": "chiedere",
+        "translation": "to ask",
+        "examples": [
+            "Posso chiederti una domanda?",
+            "Devi chiedere per ottenere."
+        ],
+        "translation_of_examples": [
+            "Can I ask you a question?",
+            "You have to ask to get."
+        ]
+    },
+    {
+        "word": "chiesa",
+        "translation": "church",
+        "examples": [
+            "Andiamo in chiesa la domenica.",
+            "La chiesa è un luogo di preghiera."
+        ],
+        "translation_of_examples": [
+            "We go to church on Sundays.",
+            "The church is a place of worship."
+        ]
+    },
+    {
+        "word": "chilometro",
+        "translation": "kilometer",
+        "examples": [
+            "La città è a dieci chilometri da qui.",
+            "Ho corso dieci chilometri oggi."
+        ],
+        "translation_of_examples": [
+            "The city is ten kilometers from here.",
+            "I ran ten kilometers today."
+        ]
+    },
+    {
+        "word": "chissà",
+        "translation": "who knows",
+        "examples": [
+            "Chissà cosa succederà.",
+            "Chissà dov'è finita la mia penna."
+        ],
+        "translation_of_examples": [
+            "Who knows what will happen.",
+            "Who knows where my pen went."
+        ]
+    },
+    {
+        "word": "chiudere",
+        "translation": "to close",
+        "examples": [
+            "Devi chiudere la finestra.",
+            "Chiudiamo il negozio alle otto."
+        ],
+        "translation_of_examples": [
+            "You have to close the window.",
+            "We close the store at eight."
+        ]
+    },
+    {
+        "word": "ci",
+        "translation": "us",
+        "examples": [
+            "Ci vedi domani.",
+            "Lo farò per noi."
+        ],
+        "translation_of_examples": [
+            "See you tomorrow.",
+            "I will do it for us."
+        ]
+    },
+    {
+        "word": "ciascuno",
+        "translation": "each",
+        "examples": [
+            "Ciascuno di voi ha un compito.",
+            "Diamo a ciascuno una possibilità."
+        ],
+        "translation_of_examples": [
+            "Each of you has a task.",
+            "Let's give each one a chance."
+        ]
+    },
+    {
+        "word": "cielo",
+        "translation": "sky",
+        "examples": [
+            "Il cielo è sereno oggi.",
+            "Guarda le stelle nel cielo."
+        ],
+        "translation_of_examples": [
+            "The sky is clear today.",
+            "Look at the stars in the sky."
+        ]
+    },
+    {
+        "word": "cioè",
+        "translation": "that is",
+        "examples": [
+            "Verrò più tardi, cioè dopo cena.",
+            "Mi ha detto cioè che non può venire."
+        ],
+        "translation_of_examples": [
+            "I'll come later, that is, after dinner.",
+            "He told me that is, he can't come."
+        ]
+    },
+    {
+        "word": "circa",
+        "translation": "about",
+        "examples": [
+            "Ci vorranno circa dieci minuti.",
+            "Il film dura circa due ore."
+        ],
+        "translation_of_examples": [
+            "It will take about ten minutes.",
+            "The movie is about two hours long."
+        ]
+    },
+    {
+        "word": "cittadino",
+        "translation": "citizen",
+        "examples": [
+            "Ogni cittadino ha diritti.",
+            "Sono un cittadino del mondo."
+        ],
+        "translation_of_examples": [
+            "Every citizen has rights.",
+            "I am a citizen of the world."
+        ]
+    },
+    {
+        "word": "città",
+        "translation": "city",
+        "examples": [
+            "Roma è una bellissima città.",
+            "La città è piena di vita."
+        ],
+        "translation_of_examples": [
+            "Rome is a beautiful city.",
+            "The city is full of life."
+        ]
+    },
+    {
+        "word": "civile",
+        "translation": "civil",
+        "examples": [
+            "Il diritto civile è importante.",
+            "Abbiamo bisogno di un dialogo civile."
+        ],
+        "translation_of_examples": [
+            "Civil law is important.",
+            "We need civil dialogue."
+        ]
+    },
+    {
+        "word": "civiltà",
+        "translation": "civilization",
+        "examples": [
+            "La civiltà antica ci affascina.",
+            "Rispettiamo la diversità delle civiltà."
+        ],
+        "translation_of_examples": [
+            "Ancient civilization fascinates us.",
+            "We respect the diversity of civilizations."
+        ]
+    },
+    {
+        "word": "ciò",
+        "translation": "that",
+        "examples": [
+            "Ciò che vuoi fare?",
+            "Riguarda ciò che hai detto."
+        ],
+        "translation_of_examples": [
+            "What do you want to do?",
+            "It concerns what you said."
+        ]
+    },
+    {
+        "word": "classe",
+        "translation": "class",
+        "examples": [
+            "Questa è una classe interessante.",
+            "La classe è molto attiva."
+        ],
+        "translation_of_examples": [
+            "This is an interesting class.",
+            "The class is very active."
+        ]
+    },
+    {
+        "word": "collina",
+        "translation": "hill",
+        "examples": [
+            "La collina è coperta di fiori.",
+            "Abbiamo fatto una passeggiata sulla collina."
+        ],
+        "translation_of_examples": [
+            "The hill is covered in flowers.",
+            "We took a walk on the hill."
+        ]
+    },
+    {
+        "word": "collo",
+        "translation": "neck",
+        "examples": [
+            "Mi fa male il collo.",
+            "Ha un gioiello al collo."
+        ],
+        "translation_of_examples": [
+            "My neck hurts.",
+            "She has a necklace on her neck."
+        ]
+    },
+    {
+        "word": "colore",
+        "translation": "color",
+        "examples": [
+            "Mi piace il colore rosso.",
+            "I colori dell'autunno sono meravigliosi."
+        ],
+        "translation_of_examples": [
+            "I like the color red.",
+            "The colors of autumn are wonderful."
+        ]
+    },
+    {
+        "word": "coloro",
+        "translation": "those",
+        "examples": [
+            "Coloro che non partecipano non vincono.",
+            "Coloro sono i migliori amici."
+        ],
+        "translation_of_examples": [
+            "Those who don't participate don't win.",
+            "Those are the best friends."
+        ]
+    },
+    {
+        "word": "colpa",
+        "translation": "fault",
+        "examples": [
+            "Non è colpa tua.",
+            "È colpa mia."
+        ],
+        "translation_of_examples": [
+            "It's not your fault.",
+            "It's my fault."
+        ]
+    },
+    {
+        "word": "colpire",
+        "translation": "to hit",
+        "examples": [
+            "Ha cercato di colpire il bersaglio.",
+            "Il pugile ha colpito forte."
+        ],
+        "translation_of_examples": [
+            "He tried to hit the target.",
+            "The boxer hit hard."
+        ]
+    },
+    {
+        "word": "colpo",
+        "translation": "blow",
+        "examples": [
+            "Ho sentito un colpo forte.",
+            "Il colpo ha causato danni."
+        ],
+        "translation_of_examples": [
+            "I heard a loud blow.",
+            "The blow caused damage."
+        ]
+    },
+    {
+        "word": "come",
+        "translation": "how",
+        "examples": [
+            "Come stai?",
+            "Come hai fatto?"
+        ],
+        "translation_of_examples": [
+            "How are you?",
+            "How did you do it?"
+        ]
+    },
+    {
+        "word": "cominciare",
+        "translation": "to begin",
+        "examples": [
+            "Dobbiamo cominciare presto.",
+            "Il film comincia tra dieci minuti."
+        ],
+        "translation_of_examples": [
+            "We have to begin early.",
+            "The movie starts in ten minutes."
+        ]
+    },
+    {
+        "word": "commercio",
+        "translation": "trade",
+        "examples": [
+            "Il commercio internazionale è importante.",
+            "Il commercio di beni è cresciuto."
+        ],
+        "translation_of_examples": [
+            "International trade is important.",
+            "The trade of goods has grown."
+        ]
+    },
+    {
+        "word": "commissione",
+        "translation": "commission",
+        "examples": [
+            "Hanno una commissione speciale.",
+            "Il presidente ha nominato la commissione."
+        ],
+        "translation_of_examples": [
+            "They have a special commission.",
+            "The president appointed the commission."
+        ]
+    },
+    {
+        "word": "comodo",
+        "translation": "comfortable",
+        "examples": [
+            "Il divano è molto comodo.",
+            "Mi piace indossare abiti comodi."
+        ],
+        "translation_of_examples": [
+            "The couch is very comfortable.",
+            "I like to wear comfortable clothes."
+        ]
+    },
+    {
+        "word": "compagnia",
+        "translation": "company",
+        "examples": [
+            "Lavoro in una grande compagnia.",
+            "La compagnia è importante."
+        ],
+        "translation_of_examples": [
+            "I work in a large company.",
+            "The company is important."
+        ]
+    },
+    {
+        "word": "compagno",
+        "translation": "companion",
+        "examples": [
+            "È un buon compagno di viaggio.",
+            "Mia sorella è la mia migliore compagna."
+        ],
+        "translation_of_examples": [
+            "He is a good travel companion.",
+            "My sister is my best companion."
+        ]
+    },
+    {
+        "word": "compiere",
+        "translation": "to fulfill",
+        "examples": [
+            "Devi compiere la tua promessa.",
+            "Il destino si compie."
+        ],
+        "translation_of_examples": [
+            "You have to fulfill your promise.",
+            "Destiny fulfills itself."
+        ]
+    },
+    {
+        "word": "completamente",
+        "translation": "completely",
+        "examples": [
+            "Il lavoro è completato.",
+            "Sono completamente d'accordo."
+        ],
+        "translation_of_examples": [
+            "The work is completely done.",
+            "I completely agree."
+        ]
+    },
+    {
+        "word": "comporre",
+        "translation": "to compose",
+        "examples": [
+            "Hai composto una canzone?",
+            "Compongo musica classica."
+        ],
+        "translation_of_examples": [
+            "Have you composed a song?",
+            "I compose classical music."
+        ]
+    },
+    {
+        "word": "comprare",
+        "translation": "to buy",
+        "examples": [
+            "Devo comprare il pane.",
+            "Hai comprato un nuovo telefono?"
+        ],
+        "translation_of_examples": [
+            "I need to buy bread.",
+            "Did you buy a new phone?"
+        ]
+    }
+]

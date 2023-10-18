@@ -1,0 +1,344 @@
+[
+    {
+        "word": "Un",
+        "translation": "One",
+        "examples": ["Un esempio", "Un libro"],
+        "translation_of_examples": ["One example", "One book"]
+    },
+    {
+        "word": "sinonimo",
+        "translation": "synonym",
+        "examples": ["Questa parola è un sinonimo.", "Trova un sinonimo adatto."],
+        "translation_of_examples": ["This word is a synonym.", "Find a suitable synonym."]
+    },
+    {
+        "word": "che",
+        "translation": "that",
+        "examples": ["Il libro che ho letto.", "Questa è la casa che ho comprato."],
+        "translation_of_examples": ["The book that I read.", "This is the house that I bought."]
+    },
+    {
+        "word": "trova",
+        "translation": "finds",
+        "examples": ["Lui trova la soluzione.", "Trova le chiavi."],
+        "translation_of_examples": ["He finds the solution.", "Find the keys."]
+    },
+    {
+        "word": "talvolta",
+        "translation": "sometimes",
+        "examples": ["Vado al mare talvolta.", "Talvolta è difficile capire."],
+        "translation_of_examples": ["I go to the beach sometimes.", "Sometimes it's hard to understand."]
+    },
+    {
+        "word": "impiego",
+        "translation": "employment",
+        "examples": ["Cerco un nuovo impiego.", "L'impiego dei robot è in crescita."],
+        "translation_of_examples": ["I'm looking for new employment.", "The use of robots is on the rise."]
+    },
+    {
+        "word": "in",
+        "translation": "in",
+        "examples": ["Sono in casa.", "Scrivi in italiano."],
+        "translation_of_examples": ["I'm in the house.", "Write in Italian."]
+    },
+    {
+        "word": "questo",
+        "translation": "this",
+        "examples": ["Prendi questo libro.", "Mi piace questo posto."],
+        "translation_of_examples": ["Take this book.", "I like this place."]
+    },
+    {
+        "word": "contest",
+        "translation": "context",
+        "examples": ["Il contest è importante.", "Capire il contest è cruciale."],
+        "translation_of_examples": ["The context is important.", "Understanding the context is crucial."]
+    },
+    {
+        "word": "è",
+        "translation": "is",
+        "examples": ["Questo è il mio amico.", "La pizza è deliziosa."],
+        "translation_of_examples": ["This is my friend.", "The pizza is delicious."]
+    },
+    {
+        "word": "cibersicurezza",
+        "translation": "cybersecurity",
+        "examples": ["La cibersicurezza è essenziale.", "Studiamo la cibersicurezza."],
+        "translation_of_examples": ["Cybersecurity is essential.", "We study cybersecurity."]
+    },
+    {
+        "word": "termine",
+        "translation": "term",
+        "examples": ["Qual è il termine?", "Questo è un termine tecnico."],
+        "translation_of_examples": ["What is the term?", "This is a technical term."]
+    },
+    {
+        "word": "più",
+        "translation": "more",
+        "examples": ["Voglio più tempo.", "C'è più gente qui."],
+        "translation_of_examples": ["I want more time.", "There are more people here."]
+    },
+    {
+        "word": "precisamente",
+        "translation": "precisely",
+        "examples": ["Dillo precisamente.", "Siamo arrivati precisamente all'ora."],
+        "translation_of_examples": ["Say it precisely.", "We arrived precisely on time."]
+    },
+    {
+        "word": "ne",
+        "translation": "of it",
+        "examples": ["Ho bisogno di più ne.", "Non ne ho idea."],
+        "translation_of_examples": ["I need more of it.", "I have no idea of it."]
+    },
+    {
+        "word": "rappresenta",
+        "translation": "represents",
+        "examples": ["Questo simbolo rappresenta l'equilibrio.", "L'arte rappresenta la cultura."],
+        "translation_of_examples": ["This symbol represents balance.", "Art represents culture."]
+    },
+    {
+        "word": "una",
+        "translation": "a",
+        "examples": ["Ho una mela.", "Voglio una birra."],
+        "translation_of_examples": ["I have an apple.", "I want a beer."]
+    },
+    {
+        "word": "sottoclasse",
+        "translation": "subclass",
+        "examples": ["La sottoclasse è parte del tutto.", "Questa è una sottoclasse di animali."],
+        "translation_of_examples": ["The subclass is part of the whole.", "This is a subclass of animals."]
+    },
+    {
+        "word": "essendo",
+        "translation": "being",
+        "examples": ["Essendo onesto è importante.", "Essendo giovane, ha molta energia."],
+        "translation_of_examples": ["Being honest is important.", "Being young, he has a lot of energy."]
+    },
+    {
+        "word": "quell'ambito",
+        "translation": "that field",
+        "examples": ["Quell'ambito è specializzato.", "Lavoro in quell'ambito."],
+        "translation_of_examples": ["That field is specialized.", "I work in that field."]
+    },
+    {
+        "word": "della",
+        "translation": "of the",
+        "examples": ["Il colore della rosa.", "Il segreto della felicità."],
+        "translation_of_examples": ["The color of the rose.", "The secret of happiness."]
+    },
+    {
+        "word": "sicurezza",
+        "translation": "security",
+        "examples": ["La sicurezza è importante.", "Abbiamo bisogno di più sicurezza."],
+        "translation_of_examples": ["Security is important.", "We need more security."]
+    },
+    {
+        "word": "informatica",
+        "translation": "informatics",
+        "examples": ["Studio informatica.", "L'informatica è una scienza."],
+        "translation_of_examples": ["I study informatics.", "Informatics is a science."]
+    },
+    {
+        "word": "che",
+        "translation": "that",
+        "examples": ["Il libro che ho letto.", "Questa è la casa che ho comprato."],
+        "translation_of_examples": ["The book that I read.", "This is the house that I bought."]
+    },
+    {
+        "word": "dipende",
+        "translation": "depends",
+        "examples": ["Questo dipende da te.", "La riuscita dipende dall'impegno."],
+        "translation_of_examples": ["This depends on you.", "Success depends on effort."]
+    },
+    {
+        "word": "solo",
+        "translation": "only",
+        "examples": ["Ho solo un amico.", "Hai solo un'opzione."],
+        "translation_of_examples": ["I have only one friend.", "You have only one option."]
+    },
+    {
+        "word": "dalla",
+        "translation": "from the",
+        "examples": ["È dalla finestra.", "Vengo dalla città."],
+        "translation_of_examples": ["It's from the window.", "I come from the city."]
+    },
+    {
+        "word": "tecnologia",
+        "translation": "technology",
+        "examples": ["La tecnologia è avanzata.", "Mi piace la tecnologia."],
+        "translation_of_examples": ["Technology is advanced.", "I like technology."]
+    },
+    {
+        "word": "con",
+        "translation": "with",
+        "examples": ["Lavoro con Maria.", "Vado con te."],
+        "translation_of_examples": ["I work with Maria.", "I'm going with you."]
+    },
+    {
+        "word": "esso",
+        "translation": "it",
+        "examples": ["Guarda, è esso!", "Devi capire esso."],
+        "translation_of_examples": ["Look, it's it!", "You have to understand it."]
+    },
+    {
+        "word": "si",
+        "translation": "itself",
+        "examples": ["Si è rotto.", "Si sta riparando."],
+        "translation_of_examples": ["It broke itself.", "It's getting repaired itself."]
+    },
+    {
+        "word": "enfatizzano",
+        "translation": "emphasize",
+        "examples": ["Enfatizzano l'importanza.", "Dovremmo enfatizzare la sicurezza."],
+        "translation_of_examples": ["They emphasize the importance.", "We should emphasize security."]
+    },
+    {
+        "word": "spesso",
+        "translation": "often",
+        "examples": ["Vado spesso al cinema.", "Spesso piove in primavera."],
+        "translation_of_examples": ["I often go to the movies.", "It often rains in spring."]
+    },
+    {
+        "word": "qualità",
+        "translation": "quality",
+        "examples": ["La qualità è importante.", "Cerca la qualità."],
+        "translation_of_examples": ["Quality is important.", "Look for quality."]
+    },
+    {
+        "word": "di",
+        "translation": "of",
+        "examples": ["Una tazza di caffè.", "Il segreto di una vita felice."],
+        "translation_of_examples": ["A cup of coffee.", "The secret of a happy life."]
+    },
+    {
+        "word": "resilienza",
+        "translation": "resilience",
+        "examples": ["La resilienza è cruciale.", "Lavoriamo sulla resilienza."],
+        "translation_of_examples": ["Resilience is crucial.", "We work on resilience."]
+    },
+    {
+        "word": "robustezza",
+        "translation": "robustness",
+        "examples": ["La robustezza del sistema.", "La robustezza è un vantaggio."],
+        "translation_of_examples": ["The system's robustness.", "Robustness is an advantage."]
+    },
+    {
+        "word": "e",
+        "translation": "and",
+        "examples": ["Maria e Paolo.", "Caffè e biscotti."],
+        "translation_of_examples": ["Maria and Paolo.", "Coffee and cookies."]
+    },
+    {
+        "word": "reattività",
+        "translation": "responsiveness",
+        "examples": ["La reattività è essenziale.", "Migliora la reattività del sito."],
+        "translation_of_examples": ["Responsiveness is essential.", "Improve the site's responsiveness."]
+    },
+    {
+        "word": "che",
+        "translation": "that",
+        "examples": ["Il libro che ho letto.", "Questa è la casa che ho comprato."],
+        "translation_of_examples": ["The book that I read.", "This is the house that I bought."]
+    },
+    {
+        "word": "una",
+        "translation": "a",
+        "examples": ["Ho una mela.", "Voglio una birra."],
+        "translation_of_examples": ["I have an apple.", "I want a beer."]
+    },
+    {
+        "word": "tecnologia",
+        "translation": "technology",
+        "examples": ["La tecnologia è avanzata.", "Mi piace la tecnologia."],
+        "translation_of_examples": ["Technology is advanced.", "I like technology."]
+    },
+    {
+        "word": "deve",
+        "translation": "must",
+        "examples": ["Deve studiare.", "Deve essere puntuale."],
+        "translation_of_examples": ["He must study.", "She must be on time."]
+    },
+    {
+        "word": "possedere",
+        "translation": "possess",
+        "examples": ["Deve possedere questa abilità.", "Posso possedere questa casa."],
+        "translation_of_examples": ["He must possess this skill.", "I can possess this house."]
+    },
+    {
+        "word": "per",
+        "translation": "for",
+        "examples": ["È per te.", "Fatto per il cliente."],
+        "translation_of_examples": ["It's for you.", "Made for the customer."]
+    },
+    {
+        "word": "fronteggiare",
+        "translation": "to face",
+        "examples": ["Deve fronteggiare le sfide.", "Dobbiamo fronteggiare il problema."],
+        "translation_of_examples": ["He has to face the challenges.", "We have to face the problem."]
+    },
+    {
+        "word": "attacchi",
+        "translation": "attacks",
+        "examples": ["Gli attacchi sono frequenti.", "Proteggiamo dai attacchi."],
+        "translation_of_examples": ["Attacks are frequent.", "We protect against attacks."]
+    },
+    {
+        "word": "mirati",
+        "translation": "targeted",
+        "examples": ["Gli attacchi mirati.", "Mirati contro il sistema."],
+        "translation_of_examples": ["The targeted attacks.", "Targeted against the system."]
+    },
+    {
+        "word": "a",
+        "translation": "to",
+        "examples": ["Vado a scuola.", "Lo consegno a te."],
+        "translation_of_examples": ["I'm going to school.", "I'll deliver it to you."]
+    },
+    {
+        "word": "comprometterne",
+        "translation": "compromise",
+        "examples": ["Non voglio comprometterne la sicurezza.", "Non dovremmo comprometterne l'efficacia."],
+        "translation_of_examples": ["I don't want to compromise its security.", "We shouldn't compromise its effectiveness."]
+    },
+    {
+        "word": "il",
+        "translation": "the",
+        "examples": ["Il libro è sulla tavola.", "Il computer è veloce."],
+        "translation_of_examples": ["The book is on the table.", "The computer is fast."]
+    },
+    {
+        "word": "suo",
+        "translation": "its",
+        "examples": ["Il suo amico.", "La sua casa."],
+        "translation_of_examples": ["Its friend.", "Its house."]
+    },
+    {
+        "word": "corretto",
+        "translation": "correct",
+        "examples": ["Questo è il corretto approccio.", "Deve essere corretto."],
+        "translation_of_examples": ["This is the correct approach.", "It must be correct."]
+    },
+    {
+        "word": "funzionamento",
+        "translation": "operation",
+        "examples": ["Il funzionamento del motore.", "Il funzionamento del software."],
+        "translation_of_examples": ["The operation of the engine.", "The operation of the software."]
+    },
+    {
+        "word": "e",
+        "translation": "and",
+        "examples": ["Maria e Paolo.", "Caffè e biscotti."],
+        "translation_of_examples": ["Maria and Paolo.", "Coffee and cookies."]
+    },
+    {
+        "word": "le",
+        "translation": "its",
+        "examples": ["Le sue scarpe.", "Le sue idee."],
+        "translation_of_examples": ["Its shoes.", "Its ideas."]
+    },
+    {
+        "word": "performance",
+        "translation": "performance",
+        "examples": ["La performance del team.", "Migliora le performance."],
+        "translation_of_examples": ["The team's performance.", "Improve the performance."]
+    }
+]
