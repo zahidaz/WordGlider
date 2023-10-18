@@ -1,10 +1,11 @@
 # Word Glider - Better Than Flash Cards
 
+## This is a work in progress. Please check back soon for updates!
 <!-- ![Word Glider Logo](https://example.com/wordgliderlogo.png) -->
 
 ## Overview
 
-Word Glider is an innovative language learning app that makes the process of expanding your vocabulary not only efficient but also enjoyable. By combining the power of digital flashcards with advanced features such as pronunciation, translations, and more, Word Glider takes your language learning experience to the next level.
+Word Glider is an innovative language learning app that makes the process of expanding your vocabulary not only efficient but also enjoyable. By combining the power of your keyboard with advanced features such as pronunciation, translations, and more, Word Glider takes your language learning experience to the next level.
 
 ### Key Features
 
